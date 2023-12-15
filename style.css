@@ -30,6 +30,7 @@
         font-size: 12px;
         font-weight: lighter;
         color: #152c70;
+        text-indent: -36px; padding-left: 36px;
 ;
     }
     .names {
